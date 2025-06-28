@@ -30,3 +30,5 @@ This project was created as part of my self-learning journey to build real-world
 - Implement search and filtering
 - Improve responsive UI for mobile devices
 - Add user authentication
+- Containerize the app
+- Use postgres sql instead of sqlite
